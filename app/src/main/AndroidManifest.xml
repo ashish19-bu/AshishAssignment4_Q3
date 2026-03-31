@@ -16,10 +16,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Ashish_Assignment43">
 
-        <!-- TODO: Replace 'YOUR_API_KEY' with your actual Google Maps API Key -->
+        
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAhsyFpdxyQrJAsUEC6HhjQW7PYuTSFY" />
+            android:value="AIzaSyAhsyFpdxyQFY" />
 
         <activity
             android:name=".MainActivity"
